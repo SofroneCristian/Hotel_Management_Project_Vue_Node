@@ -1,4 +1,7 @@
 # hotel-management-app
+##In first terminal
+Node server.js
+##In second terminal
 
 ## Project setup
 ```
